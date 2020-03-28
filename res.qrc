@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>drzwi/001.png</file>
+        <file>bg.jpg</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>bgsound.mp3</file>
+    </qresource>
+    <qresource prefix="/text">
+        <file>drzwi.txt</file>
+    </qresource>
+</RCC>
